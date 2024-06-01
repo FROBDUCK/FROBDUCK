@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, javascript,HTML, CSS SQL, dart, flutter and UI design**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
